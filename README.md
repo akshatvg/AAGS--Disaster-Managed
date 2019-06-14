@@ -22,23 +22,3 @@ Some of the features included in our current prototype include:
 6) Precautionary software conntected to already existing software.
 
 7) Drones to deliver amenities.
-
-## Team
-
-AAGS
-
-## Product
-
-Disaster Managed!
-
-## Members
-
-1) Akshat Gupta
-
-2) Gauransh Arora
-
-3) Sai Sandeep
-
-4) Arpit Jain
-
-5) Arth Chowdhury
